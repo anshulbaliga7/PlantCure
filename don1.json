@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "Apple Rust",
+        "info": "This is a disfiguring and destructive deformation of the fruits of apple trees. Brightly coloured spots on the leaves are a sign of identifying this disease in the early stage itself.",
+        "prevention": "The disease can be controlled by iradicating either host in a given area, or by using a fungicide. In spring, for junipers, and in summer for apples."
+    },
+    {
+        "id": 2,
+        "name": "Apple Scab",
+        "info": "Apple Scab rarely kills its host, but the damage it does to the fruits and flowers is huge. Apple scab enhances the suscptibility to secondary infection and abiotic stress. The first symptoms of the disease are in the developing fruits of the affected trees. It results to a decrease of yield by almost 70%.",
+        "prevention": "To reduce the scab related yield losses, growers often combine preventive practices, including sanitation, resisitance breeding, with reactive measures such as targetted fungicides, and biocontrol treatments."
+    },
+    {
+        "id": 3,
+        "name": "Corn Leaf Blight",
+        "info": "It is a disease of the leaves of corn. The most common diagnostic symptom of the disease on corn, is cigar shaped lines on the leaves. This disease can cause significant loss in yield, so it is important to prevent the disease or treat it as early as possible.",
+        "prevention": "By using hybrids, with resistance,to utlilize an integrated approach, with different cropping practices and fungicides, but these may not always work."
+    },
+    {
+        "id": 4,
+        "name": "Corn Grey Leaf Spot",
+        "info": "Foliar fungal disease that affects maize. Symptoms seen on corn include leaf lesions, discoloration, and foliar blight. Poor air-flow, low sunlight, overcrowding, improper soil nutrient, poor irrigation management and poor soil drainage contribute to the propogation of the disease.",
+        "prevention": "Crop resistance,crop rotation, proper wastage/sewage management, use of fungicides, and weed control."
+    },
+    {
+        "id": 5,
+        "name": "Corn Rust",
+        "info": "Corn rust is caused by a fungus. It is the most frequently occuring of the two rust diseases in corn. The start off as small bumps which are the fungi spores. When these bumps are broken, the can easily spread to other nearby plants also, thus making it a very destructive disease.",
+        "prevention": "Applying fungicides between the silking(R1) and milk(R3) stages, or using fungi resistant hybridsin order to prevent the fungus. "
+    },
+    {
+        "id": 6,
+        "name": "Corn Healthy",
+        "info": "There is nothing wrong with the corn over here. Good job!",
+        "prevention": "Not required"
+    },
+    {
+        "id": 7,
+        "name":"Healthy Apple",
+        "info": "There is nothing wrong with the corn over here. Good job!",
+        "prevention":"Not required"
+    },
+    {
+        "id": 8,
+        "name":"Apple Black Rot",
+        "info":"It causes a swelling up of the tree trunk. It is dangerous only for that tree, but cannot spread. The tree which is infected can be burnt separately. This fungus can enter into the fruit easily through holes present on the fruit which are made by worms or birds.",
+        "prevention":"Infected trees can be separated and be burnt, so as to prevent the spreading of the fungus to other nearby trees."
+    }
+]
